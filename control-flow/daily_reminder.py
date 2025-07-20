@@ -21,4 +21,4 @@ else:
     else:
         message += " and can be scheduled accordingly."
 
-print("Reminder: " + message)
+print(f"Reminder: {message}")
